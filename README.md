@@ -4,7 +4,7 @@
 
 ## 다운로드
 
-[최신 버전 설치 파일 다운로드](https://github.com/DOYOUNG5530/heart-bot-releases/releases/latest/download/HeartBotSetup-0.1.0.exe)
+[최신 버전 설치 파일 다운로드](https://github.com/DOYOUNG5530/heart-bot-releases/releases/latest/download/HeartBotSetup-0.1.1.exe)
 
 설치 파일을 실행한 뒤 안내에 따라 설치하세요. 배포 초기에는 Windows가 게시자를 확인할 수 없다는 경고를 표시할 수 있습니다.
 
